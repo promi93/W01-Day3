@@ -29,6 +29,10 @@ caption {
     color: rgba(128, 128, 128, 0.582);
 }
 
+h1 {
+    text-align: center;
+}
+
 h2 {
     border-bottom: 1px solid #3ad8ff;
     width: 100%;
