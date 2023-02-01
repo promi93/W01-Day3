@@ -11,6 +11,34 @@ img {
     width: 8%;
 }
 
+.video {
+    width: 58vh;
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.411);
+    border-radius: 2%;
+}
+
+.video:hover {
+    width: 62vh;
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.411);
+    border-radius: 2%;
+}
+
+caption {
+    text-align: center;
+    color: rgba(128, 128, 128, 0.582);
+}
+
+h2 {
+    border-bottom: 1px solid #3ad8ff;
+    width: 100%;
+    row-gap: 20px;
+}
+
+.imaa {
+    text-align: center;
+    color: rgba(128, 128, 128, 0.755);
+}
+
 .yellow-line {
     background-color: rgba(255, 230, 5, 0.1);
     border-top: 1px solid rgb(255, 230, 0);
@@ -23,4 +51,17 @@ img {
 
 p>strong {
     font-size: 1em;
+}
+
+.corpo {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.sidebar {
+    border-left: 1px solid #ffc73a;
+    width: 100%;
+    padding-left: 1em;
+    grid-template-columns: min-content;
+    row-gap: 0.25;
 }
