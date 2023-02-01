@@ -34,6 +34,7 @@ h2 {
     width: 100%;
     padding-bottom: 1em;
     row-gap: 20px;
+    font-weight: lighter;
 }
 
 .imaa {
@@ -71,5 +72,5 @@ p>strong {
 }
 
 p>a {
-    color: blue;
+    color: rgba(0, 191, 255, 0.797);
 }
